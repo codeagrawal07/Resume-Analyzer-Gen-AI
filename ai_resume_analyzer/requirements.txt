@@ -1,0 +1,4 @@
+pip install google-generativeai
+pip install os
+pip install re
+pip install json
